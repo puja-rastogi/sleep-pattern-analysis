@@ -124,3 +124,9 @@ These insights illustrate how lifestyle choices influence sleep and overall well
   - `caffeine-productivity.png` – relationship between caffeine intake and productivity score
 
 - `README.md` – project documentation and explanation of analysis
+
+  ## Tools Used
+
+- Excel – data cleaning and preparation
+- Tableau – data visualization and chart development
+- GitHub – project documentation and portfolio presentation
