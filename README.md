@@ -91,10 +91,36 @@ These insights illustrate how lifestyle choices influence sleep and overall well
 - Data Visualization
 - Exploratory Data Analysis
 
+  ## Key Visualizations
+
+### Sleep Quality vs Mood Score
+![Sleep Quality vs Mood](visuals/sleep-quality-mood.png)
+
+### Exercise Impact on Sleep and Mood
+![Exercise Sleep Mood](visuals/exercise-sleep-mood.png)
+
+### Work Hours vs Sleep Hours
+![Work Hours vs Sleep](visuals/work-hours-vs-sleep.png)
+
+### Weekday Sleep Quality Patterns
+![Weekday Sleep Quality](visuals/weekday-sleep-quality.png)
+
+### Productivity vs Caffeine Intake
+![Caffeine Productivity](visuals/caffeine-productivity.png)
+
 
 ## Files Included
 
-- `sleep-analysis-presentation.pdf` – project explanation and charts
-- `sleep-visualizations-tableau.twbx` – Tableau workbook
-- `sleep-dashboard-preview.png` – visualization preview
-- `README.md` – project documentation
+
+- `sleep-productivity-dataset.xlsx` – dataset containing sleep, exercise, caffeine, mood, and productivity metrics
+
+- `sleep-pattern-analysis-report.pdf` – presentation explaining analysis, visualizations, and key insights
+
+- `visuals/` – folder containing visualization screenshots used in the analysis
+  - `sleep-quality-mood.png` – relationship between sleep quality and mood score
+  - `exercise-sleep-mood.png` – exercise impact on sleep quality and mood
+  - `work-hours-vs-sleep.png` – comparison of work hours and total sleep hours
+  - `weekday-sleep-quality.png` – sleep quality trends across days of the week
+  - `caffeine-productivity.png` – relationship between caffeine intake and productivity score
+
+- `README.md` – project documentation and explanation of analysis
